@@ -26,7 +26,11 @@ __IAM__
   ```
   ```
   What is AWS Cognito, and how does it relate to IAM in the context of user identity and authentication?
+  ```
+  ```
   Explain the concept of AWS Security Token Service (STS) and how it relates to temporary credentials in IAM.
+  ```
+  ```
   Limit to attach max no of policies to IAM roles
   ```
   ```
